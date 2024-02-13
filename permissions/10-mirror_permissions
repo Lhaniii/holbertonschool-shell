@@ -1,2 +1,2 @@
 #!/bin/bash
-chgroup 645 permission
+chmod 753 olleh 
