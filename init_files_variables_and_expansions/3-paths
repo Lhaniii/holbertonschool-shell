@@ -1,2 +1,2 @@
 #!/bin/bash
-grep type -d path|wc -l
+grep type -d $PATH | wc -l
